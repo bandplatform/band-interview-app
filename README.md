@@ -17,7 +17,7 @@
 3. **Create the database**:
    ```bash
    # Connect to PostgreSQL
-   psql -U postgres
+   psql postgres
 
    # Create database
    CREATE DATABASE band_interview_app;
